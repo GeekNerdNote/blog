@@ -1,3 +1,5 @@
 domain: geeknerdnote.github.io
-url: https://geeknerdnote.github.io
-baseurl: /blog
+url: https://geeknerdnote.github.io/
+baseurl: /blog/
+
+theme: minima
