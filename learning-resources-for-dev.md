@@ -6,10 +6,6 @@ author : ["LUX14Zx"]
 
 ---
 
-# Learning Resource for Developer
-
-Collection ที่รวบรวม resources ต่างๆ สำหรับ Developer
-
 ## Mathematics and Sciences
 
 | Name                                                                                                             | Type   |
