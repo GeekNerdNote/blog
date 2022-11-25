@@ -104,31 +104,31 @@ author : ["LUX14Zx"]
 
 ### Software Engineering
 
-| Name                                                                                   | Type             |     |     |
-| -------------------------------------------------------------------------------------- | ---------------- | --- | --- |
-| [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)     | resource, ebooks |     |     |
-| [Professional Programming](https://github.com/charlax/professional-programming)        | resource, ebooks |     |     |
-| [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know) | collection       |     |     |
+| Name                                                                                   | Type             | 
+| -------------------------------------------------------------------------------------- | ---------------- | 
+| [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)     | resource, ebooks |  
+| [Professional Programming](https://github.com/charlax/professional-programming)        | resource, ebooks |   
+| [Every Programmer should know](https://github.com/mtdvio/every-programmer-should-know) | collection       |    
 
 #### Software Development
 
-| Name                                                                                           | Type     |     |
-| ---------------------------------------------------------------------------------------------- | -------- | --- |
-| [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html#) | resource |     |
+| Name                                                                                           | Type     | 
+| ---------------------------------------------------------------------------------------------- | -------- | 
+| [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html#) | resource | 
 
 ##### Tools
 
 | Name                                                                                      | Type              |
-| ----------------------------------------------------------------------------------------- | ----------------- | --- |
+| ----------------------------------------------------------------------------------------- | ----------------- | 
 | [The book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | collection, tool  |
-| [Free for Dev](https://free-for.dev/#/)                                                   | tools, collection |     |
+| [Free for Dev](https://free-for.dev/#/)                                                   | tools, collection |    
 
 #### Software Design and Architecture
 
 | Name                                                                                            | Type                     |
 | ----------------------------------------------------------------------------------------------- | ------------------------ |
 | [How to Design Programs, Second Edition](https://htdp.org/2022-2-9/Book/index.html)             | resource, ebook          |
-| [Scalable Software Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) | paper,talk, web resource |
+| [Scalable Software Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) | paper, talk, web resource |
 | [Software Architect](https://roadmap.sh/software-architect)                                     | roadmap                  |
 | [Software Design and Architecture](https://roadmap.sh/software-design-architecture)             | roadmap                  |
 
@@ -179,11 +179,11 @@ author : ["LUX14Zx"]
 
 ##### HTML, CSS, JS
 
-| Name                                                                                        | Type     |     |
-| ------------------------------------------------------------------------------------------- | -------- | --- |
-| [Internet is hard: HTML, CSS & Javascript](https://www.internetingishard.com/html-and-css/) | resource |     |
-| [React Roadmap](https://roadmap.sh/react)                                                   | roadmap  |     |
-| [JavaScript Roadmap](https://roadmap.sh/javascript)                                         | roadmap  |     |
+| Name                                                                                        | Type     |  
+| ------------------------------------------------------------------------------------------- | -------- | 
+| [Internet is hard: HTML, CSS & Javascript](https://www.internetingishard.com/html-and-css/) | resource |  
+| [React Roadmap](https://roadmap.sh/react)                                                   | roadmap  |  
+| [JavaScript Roadmap](https://roadmap.sh/javascript)                                         | roadmap  |    
 
 ##### Design System
 
