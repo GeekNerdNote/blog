@@ -1,9 +1,9 @@
-+---
-date created: Wednesday, November 2nd 2022, 10:34:05 pm  
-date modified: Saturday, November 5th 2022, 7:04:56 pm
+---
+title: "Mathematics and Sciences"
+date created: 23-November-2022
+date modified: 25-November-2022
 tag : ["learning-resource", "software-engineering", "computer-science", "web-development", "game-development", "engineering", "mathematic", "science"]
 author : ["LUX14Zx"]
-
 ---
 
 ## Mathematics and Sciences
@@ -13,7 +13,6 @@ author : ["LUX14Zx"]
 | [List of Science & Math courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures) | course |
 |                                                                                                                  |        |
 
----
 
 ## Computer Science
 
